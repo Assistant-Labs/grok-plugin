@@ -20,12 +20,18 @@ anything that needs a decision. It asks you before anything reaches a customer.
 **Grok Bot:** open **Connect apps**, choose **AssistantLabs**, select **Connect**
 and sign in. Then ask your bot "brief me" or "who is waiting for a reply?".
 
-**Cursor:** install AssistantLabs from the Marketplace, open **Settings → MCP**,
-select **Connect** next to `assistantlabs` and sign in.
+**Cursor:** open **Cursor Settings → Plugins**, search for **AssistantLabs** and
+click **Install**, or run `/add-plugin assistantlabs` in chat. Then open
+**Tools & MCPs**, select **Connect** next to `assistantlabs` and sign in.
 
 No AssistantLabs account yet? Ask "set up my business" before signing in. The
 `assistantlabs-start` connection needs no login: it reads your website and
 drafts your agent, which waits for you when you sign up.
+
+## Before you connect
+
+You need an AssistantLabs account with at least one channel connected (WhatsApp,
+Instagram, Messenger, email or website chat). Sign up at https://assistantlabs.io.
 
 ## How access works
 
@@ -34,6 +40,14 @@ drafts your agent, which waits for you when you sign up.
 - The bot reaches only the workspaces your account belongs to.
 - Publishing a post, sending marketing email, running Instagram automations and
   spending on ads are off until you switch them on in the connection's permissions.
+
+## Privacy and data
+
+The plugin's files are instructions only; no code runs on your machine. Your
+business data stays in AssistantLabs and reaches the bot only through the MCP
+server, for the products you approve. AssistantLabs does not use data from this
+connection to train AI models. Privacy policy:
+https://assistantlabs.io/al-privacy-policy.html
 
 ## Contents
 

@@ -2,31 +2,42 @@
 	"name": "assistantlabs",
 	"displayName": "AssistantLabs",
 	"version": "1.0.0",
-	"description": "Run your business's customer side from chat: WhatsApp, Instagram, Messenger and email conversations, leads, CRM, bookings, help desk and marketing for small businesses that use AssistantLabs. You approve anything that reaches a customer.",
+	"description": "Answer WhatsApp, Instagram, and Messenger customers, and work with leads, contacts, bookings, and support tickets.",
 	"author": {
 		"name": "AssistantLabs",
-		"email": "support@assistantlabs.io",
-		"url": "https://assistantlabs.io"
+		"email": "support@assistantlabs.io"
 	},
+	"publisher": "AssistantLabs",
 	"homepage": "https://assistantlabs.io",
 	"repository": "https://github.com/Assistant-Labs/grok-plugin",
 	"license": "MIT",
+	"logo": "assets/logo.png",
 	"keywords": [
+		"assistantlabs",
 		"whatsapp",
-		"whatsapp-business",
+		"whatsapp business",
 		"instagram",
+		"instagram dm",
 		"messenger",
-		"customer-support",
-		"helpdesk",
-		"crm",
+		"facebook messenger",
+		"customer support",
+		"inbox",
 		"leads",
+		"crm",
 		"appointments",
 		"booking",
-		"email-marketing",
-		"social-media",
-		"meta-ads",
-		"shopify",
-		"small-business"
+		"helpdesk",
+		"small business",
+		"mcp"
 	],
-	"logo": "assets/logo.png"
+	"category": "integrations",
+	"tags": [
+		"whatsapp",
+		"instagram",
+		"messenger",
+		"customer support",
+		"crm",
+		"mcp"
+	],
+	"mcpServers": "./mcp.json"
 }

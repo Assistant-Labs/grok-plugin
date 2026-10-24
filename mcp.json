@@ -1,9 +1,11 @@
 {
 	"mcpServers": {
 		"assistantlabs": {
+			"type": "http",
 			"url": "https://mcp.assistantlabs.io/mcp"
 		},
 		"assistantlabs-start": {
+			"type": "http",
 			"url": "https://mcp.assistantlabs.io/start/mcp"
 		}
 	}
