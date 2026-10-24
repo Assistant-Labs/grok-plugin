@@ -1,0 +1,32 @@
+{
+	"name": "assistantlabs",
+	"displayName": "AssistantLabs",
+	"version": "1.0.0",
+	"description": "Run your business's customer side from chat: WhatsApp, Instagram, Messenger and email conversations, leads, CRM, bookings, help desk and marketing for small businesses that use AssistantLabs. You approve anything that reaches a customer.",
+	"author": {
+		"name": "AssistantLabs",
+		"email": "support@assistantlabs.io",
+		"url": "https://assistantlabs.io"
+	},
+	"homepage": "https://assistantlabs.io",
+	"repository": "https://github.com/Assistant-Labs/grok-plugin",
+	"license": "MIT",
+	"keywords": [
+		"whatsapp",
+		"whatsapp-business",
+		"instagram",
+		"messenger",
+		"customer-support",
+		"helpdesk",
+		"crm",
+		"leads",
+		"appointments",
+		"booking",
+		"email-marketing",
+		"social-media",
+		"meta-ads",
+		"shopify",
+		"small-business"
+	],
+	"logo": "assets/logo.png"
+}

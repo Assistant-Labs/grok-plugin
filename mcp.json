@@ -1,0 +1,10 @@
+{
+	"mcpServers": {
+		"assistantlabs": {
+			"url": "https://mcp.assistantlabs.io/mcp"
+		},
+		"assistantlabs-start": {
+			"url": "https://mcp.assistantlabs.io/start/mcp"
+		}
+	}
+}
